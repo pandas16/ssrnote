@@ -3,16 +3,15 @@
 ### 下载：
 
 [点击下载 ss](https://github.com/shadowsocks/shadowsocks-windows/releases)
-
 [点击下载 ssr](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
 
 > 因为ss只能使用 **ss://** 开头的资源，而ssr,除了ss,还能使用 **ssr://** 开头的资源。因此对于使用者来说，ssr无疑会是更佳的选择。
 
 ### 阿虚同学
 
-[部落格](https://dotblogs.com.tw/axutongxue/2018/04/10/000236) 该站点已经停止更新，但还有可用连接。
+[部落格](https://dotblogs.com.tw/axutongxue/2018/04/10/000236)  该站点已经停止更新，但还有可用连接。
 
-[储物间](http://kyon945.ys168.com/) 包含了常用的可能用到小工具，比较实用。此外，ssr教程隐藏于图片中。
+[储物间](http://kyon945.ys168.com/)  包含了常用的可能用到小工具，比较实用。此外，ssr教程隐藏于图片中。
 
 ### 使用方法和答疑
 
@@ -20,7 +19,12 @@
 
 ### 冰灵
 
-[冰灵](http://ssr.bingly.cn/user) 需要注册
+[冰灵入口](http://ssr.bingly.cn/user) 
+
+> 需要注册
 
 冰灵和一些加速器的思路是利用VPN和网络请求混淆原理，减少网络延时（这一点在冰灵上体现不明显，因为实际使用过程中，并没有体验到冰灵的加速效果）和实现**免流**。
 
+### 其它
+
+[Free-SS-SSR](https://github.com/dxxzst/Free-SS-SSR)
