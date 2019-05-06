@@ -3,6 +3,7 @@
 ### 下载：
 
 [点击下载 ss](https://github.com/shadowsocks/shadowsocks-windows/releases)
+
 [点击下载 ssr](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
 
 > 因为ss只能使用 **ss://** 开头的资源，而ssr,除了ss,还能使用 **ssr://** 开头的资源。因此对于使用者来说，ssr无疑会是更佳的选择。
