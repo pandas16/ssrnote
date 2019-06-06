@@ -26,7 +26,7 @@
 
 樱云与冰灵大同小异
 
-[樱云入口](https://yingyun.me/auth/register?code=xXP5) 
+[樱云入口](https://yingyun.me/user) 
 
 ### 其它
 
