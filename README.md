@@ -24,6 +24,10 @@
 
 冰灵和一些加速器的思路是利用VPN和网络请求混淆原理，减少网络延时（这一点在冰灵上体现不明显，因为实际使用过程中，并没有体验到冰灵的加速效果）和实现**免流**。
 
+樱云与冰灵大同小异
+
+[樱云入口](https://yingyun.me/auth/register?code=xXP5) 
+
 ### 其它
 
 [Free-SS-SSR](https://github.com/dxxzst/Free-SS-SSR)
