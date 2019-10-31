@@ -18,7 +18,7 @@
 
 ### 冰灵
 
-[冰灵入口](http://ssr.bingly.cn/user) 
+[冰灵入口](http://bssr.site/auth/login) 
 
 > 需要注册
 
