@@ -18,7 +18,7 @@
 
 ### 冰灵
 
-[冰灵入口](http://bssr.site/auth/login) 
+[冰灵入口](http://bssr.vip/auth/login) 
 
 > 需要注册
 
