@@ -33,3 +33,5 @@
 [Free-SS-SSR](https://github.com/dxxzst/Free-SS-SSR)
 
 [lncn](https://lncn.org/)
+
+[lncn](http://nulastudio.org/Freedom/)
